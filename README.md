@@ -2,8 +2,19 @@
 
 ---
 
+##HomePage:
 
-<img src="[URL_of_the_GIF](https://user-images.githubusercontent.com/74673031/265178255-64be9bb0-2443-4e3f-b153-fc385c8653af.gif)" width="100%">
+
+##Once user has logged in and is authenticated access is granted to the synth:
+
+
+
+
+##Example GIF of the front-end during an Inference:
+
+![URL_of_the_GIF](https://user-images.githubusercontent.com/74673031/265178255-64be9bb0-2443-4e3f-b153-fc385c8653af.gif)
+
+
 
 
 
