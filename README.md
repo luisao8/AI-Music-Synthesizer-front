@@ -19,6 +19,8 @@ In case its not clear, the introduces prompt is: "Fast Tribal bongos with a feel
 
 ### This is the output audio: 
 
+[Click here to play the audio](URL_of_the_WAV_file)
+
 
 
 
