@@ -19,7 +19,7 @@ In case its not clear, the introduces prompt is: "Fast Tribal bongos with a feel
 
 ### This is the output audio: 
 
-[Click here to play the audio](URL_of_the_WAV_file)
+[Click here to play the audio](https://github.com/luisao8/AI-Music-Synthesizer-front#:~:text=1%20hour%20ago-,Download.wav,-Add%20files%20via)
 
 
 
