@@ -2,17 +2,22 @@
 
 ---
 
-##HomePage:
+## HomePage:
+![URL_of_the_Homepage screenshot](https://user-images.githubusercontent.com/74673031/265178538-3b3eb9aa-efde-409b-98b2-b13e048fea42.png)
 
 
-##Once user has logged in and is authenticated access is granted to the synth:
+## Once user has logged in and is authenticated access is granted to the synth:
+![URL_of_the_Synth screenshot](https://user-images.githubusercontent.com/74673031/265178523-ed9d7774-5029-4c5f-bbf9-e1553ede353b.png)
 
 
 
-
-##Example GIF of the front-end during an Inference:
+## Example GIF of the front-end during an Inference:
 
 ![URL_of_the_GIF](https://user-images.githubusercontent.com/74673031/265178255-64be9bb0-2443-4e3f-b153-fc385c8653af.gif)
+
+In case its not clear, the introduces prompt is: "Fast Tribal bongos with a feeling of nostalgia due to a chase", with the duration being 10s.
+
+### This is the output audio: 
 
 
 
