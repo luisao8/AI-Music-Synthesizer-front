@@ -2,7 +2,8 @@
 
 ---
 
-![Alt Text](https://user-images.githubusercontent.com/74673031/265178255-64be9bb0-2443-4e3f-b153-fc385c8653af.gif)
+
+<img src="[URL_of_the_GIF](https://user-images.githubusercontent.com/74673031/265178255-64be9bb0-2443-4e3f-b153-fc385c8653af.gif)" width="100%">
 
 
 
