@@ -42,6 +42,8 @@ In case its not clear, the introduces prompt is: "Fast Tribal bongos with a feel
 ## Project Description
 Welcome to one of the first of its kind. A first version of an AI Music Synthesizer using Facebook's MusicGen. The idea is to further develop and train it to fine tune it into becoming an Electronic Music Synthesizer. Its a webapp with a login using auth0. Once to authenticate you'll gain access to the synth where you'll introduce a prompt, select a length in seconds, and get back a wav file to listen to. If its correct you'll be able to download and start again.
 
+The Web-app consists of a Front-end in React which interacts with a Node Back-end sending it its requests. The back-end in turn inferences  a music-gen model in Replicate which then sends back a link to a wav file as output.
+
 ---
 
 ## Technologies
@@ -50,6 +52,7 @@ This project was developed with the following technologies:
 * Node
 * Tailwind
 * MusicGen Large Language Model
+* Replicate
 
 
 ---
