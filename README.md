@@ -1,12 +1,8 @@
-# Giffy: Your GIF Browser and Library
+# AI Music Synthesizer
 
 ---
 
-![Example Search](https://github.com/luisao8/GiffyFront/blob/main/images/Example%20Search.png "Example Search")
 
-![Example](https://github.com/luisao8/GiffyFront/blob/main/images/Example.png "Welcome.png")
-
-![Gif](https://github.com/luisao8/GiffyFront/blob/main/images/gif.gif "gif.gif")
 
 
 ---
@@ -23,22 +19,17 @@
 ---
 
 ## Project Description
-Welcome to Giffy, your personal GIF browser and library! This repository contains the codebase for a comprehensive webapp that allows users to log in to their profile and navigate, like, and upload their favorite GIFs.
+Welcome to one of the first of its kind. A first version of an AI Music Synthesizer using Facebook's MusicGen. The idea is to further develop and train it to fine tune it into becoming an Electronic Music Synthesizer. Its a webapp with a login using auth0. Once to authenticate you'll gain access to the synth where you'll introduce a prompt, select a length in seconds, and get back a wav file to listen to. If its correct you'll be able to download and start again.
 
 ---
 
 ## Technologies
 This project was developed with the following technologies:
 * REACT
-* Bootstrap
+* Node
+* Tailwind
+* MusicGen Large Language Model
 
----
-
-## Features
-Key features of Giffy include:
-* GIF Browser: Explore and navigate through an extensive collection of GIFs.
-* Liking System: Like your favorite GIFs and keep track of them.
-* GIF Upload: Share your joy by uploading your own GIFs for the community.
 
 ---
 
